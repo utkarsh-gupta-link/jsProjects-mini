@@ -1,1 +1,1 @@
-Click [here](https://utkarsh-gupt-a.github.io/jsProjects-mini/index.html) to go to my JavaScript website.
+Click [here](https://utkarsh-gupta-link.github.io/jsProjects-mini/index.html) to go to my JavaScript website.
